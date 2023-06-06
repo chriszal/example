@@ -1,0 +1,25 @@
+falcon==3.1.1
+falcon-cors
+gunicorn
+requests
+eventlet
+gevent
+falcon-swagger-ui
+mongoengine
+pytest
+pyyaml
+# uvicorn
+aiohttp
+falcon-multipart
+falcon_auth[backend-jwt]
+python-decouple
+bcrypt
+falcon-policy
+pretend
+pandas
+python-dotenv
+pika
+# gridfs
+# numpy
+# functools
+#falcon_auth2[jwt]
